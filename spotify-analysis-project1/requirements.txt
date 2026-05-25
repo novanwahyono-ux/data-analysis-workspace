@@ -1,0 +1,20 @@
+# Spotify Data Analysis
+
+## Objective
+Analyze Spotify chart data to identify streaming trends and popular artists.
+
+## Dataset
+Dataset contains Spotify streaming chart information.
+
+## Data Cleaning
+- Removed null values
+- Converted numeric columns
+- Removed duplicates
+
+## Exploratory Data Analysis
+- Top streamed songs
+- Top artists
+- Stream distribution
+
+## Conclusion
+Drake, Ariana Grande, and Travis Scott dominate total streams in the dataset.
