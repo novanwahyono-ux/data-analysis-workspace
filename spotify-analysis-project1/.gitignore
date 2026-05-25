@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Logs
+*.log
+
+# Environment Variables
+.env
+
+# Data Files
+data/raw/*.csv
+data/raw/*.zip
+data/raw/*.xlsx
+
+# Output Files
+outputs/
+
+# Temporary Files
+tmp/
+temp/
+
+# Cache
+.cache/
+
+# Large Files
+*.parquet
+*.h5
