@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+.env/
+
+# VSCode
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Large Outputs
+outputs/charts/
+outputs/reports/
+outputs/exports/
+
+# Database Cache
+*.db-journal
+*.sqlite-journal
+
+# Temporary Files
+*.tmp
+*.log
